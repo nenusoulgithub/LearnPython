@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce22204b-8409-4b77-aaea-3f0a1a54f0fa" name="Default Changelist" comment="" />
+    <list default="true" id="ce22204b-8409-4b77-aaea-3f0a1a54f0fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/杂七杂八/解析SQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day1_08-赋值运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day1_09-输入与输出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day3_02-字符串操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day3_03-列表的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day3_04-元组的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day3_05-字典的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day3_06-容器的公用方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,15 +34,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/求知学堂" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\LearnPython\求知学堂" />
       <recent name="D:\workspace\LearnPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day1_07-逻辑运算符">
-    <configuration name="day1_05-变量和数据类型1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.day3_06-容器的公用方法">
+    <configuration name="day3_02-字符串操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day1_05-变量和数据类型1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_02-字符串操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day1_06-算数和比较运算 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day3_03-列表的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day1_06-算数和比较运算.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_03-列表的操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day1_06-算数和比较运算" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day3_04-元组的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\workspace\LearnPython\求知学堂\day1_06-算数和比较运算.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_04-元组的操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day1_07-逻辑运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day3_05-字典的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day1_07-逻辑运算符.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_05-字典的操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day3_06-容器的公用方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/飞机大战" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/求知学堂" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/飞机大战/plane_main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_06-容器的公用方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,15 +152,30 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day1_07-逻辑运算符" />
-        <item itemvalue="Python.day1_06-算数和比较运算 (1)" />
-        <item itemvalue="Python.day1_06-算数和比较运算" />
-        <item itemvalue="Python.day1_05-变量和数据类型1" />
-        <item itemvalue="Python.plane_main" />
+        <item itemvalue="Python.day3_06-容器的公用方法" />
+        <item itemvalue="Python.day3_05-字典的操作" />
+        <item itemvalue="Python.day3_04-元组的操作" />
+        <item itemvalue="Python.day3_03-列表的操作" />
+        <item itemvalue="Python.day3_02-字符串操作" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ce22204b-8409-4b77-aaea-3f0a1a54f0fa" name="Default Changelist" comment="" />
@@ -159,21 +187,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="963" height="153" key="GridCell.Tab.0.bottom" timestamp="1602775166152">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom" timestamp="1602923440648">
+      <screen x="0" y="0" width="1536" height="920" />
     </state>
+    <state width="1515" height="228" key="GridCell.Tab.0.bottom/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1602923440648" />
+    <state width="1259" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
-    <state width="963" height="153" key="GridCell.Tab.0.center" timestamp="1602775166152">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="228" key="GridCell.Tab.0.center" timestamp="1602923440647">
+      <screen x="0" y="0" width="1536" height="920" />
     </state>
+    <state width="1515" height="228" key="GridCell.Tab.0.center/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1602923440647" />
+    <state width="1259" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
-    <state width="963" height="153" key="GridCell.Tab.0.left" timestamp="1602775166152">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="228" key="GridCell.Tab.0.left" timestamp="1602923440647">
+      <screen x="0" y="0" width="1536" height="920" />
     </state>
+    <state width="1515" height="228" key="GridCell.Tab.0.left/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1602923440647" />
+    <state width="1259" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
-    <state width="963" height="153" key="GridCell.Tab.0.right" timestamp="1602775166152">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="228" key="GridCell.Tab.0.right" timestamp="1602923440648">
+      <screen x="0" y="0" width="1536" height="920" />
     </state>
+    <state width="1515" height="228" key="GridCell.Tab.0.right/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1602923440648" />
+    <state width="1259" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
+    <state x="142" y="23" key="SettingsEditor" timestamp="1602816959372">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1602816959372" />
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602916606905">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1602916606905" />
   </component>
 </project>
