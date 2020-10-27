@@ -47,8 +47,18 @@
       <recent name="D:\workspace\LearnPython" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.day9_06-异常处理">
     <configuration name="day2_2-类的私有属性" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.day6_05内置函数set-">
+    <configuration name="day3_03-列表的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.day6_04-序列操作">
+    <configuration name="day5_04-递归函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +70,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="D:\workspace\LearnPython\求知学堂\day9_2-类的私有属性.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_03-列表的操作.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day5_04-递归函数.py" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +87,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="day9_03-类的私有方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="day3_04-元组的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="day5_04-匿名函数(lambda表达式)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +107,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_03-类的私有方法.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_04-元组的操作.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day5_04-匿名函数(lambda表达式).py" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +124,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="day9_03-property和装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="day3_05-字典的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="day6_02-内置函数 数学运算" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +144,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_03-property和装饰器.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_05-字典的操作.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day6_02-内置函数 数学运算.py" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +161,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="day9_05-单例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="day3_06-容器的公用方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="day6_03-类型转换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +181,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_05-单例.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day3_06-容器的公用方法.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6_03-类型转换.py" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +198,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="day9_06-异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="day6_05内置函数set-" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="day6_04-序列操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +218,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_06-异常处理.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day6_05内置函数set-.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day6_04-序列操作.py" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,27 +237,31 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.day9_06-异常处理" />
         <item itemvalue="Python.day9_05-单例" />
         <item itemvalue="Python.day9_03-property和装饰器" />
         <item itemvalue="Python.day9_03-类的私有方法" />
         <item itemvalue="Python.day2_2-类的私有属性" />
+=======
+<<<<<<< HEAD
+        <item itemvalue="Python.day6_05内置函数set-" />
+        <item itemvalue="Python.day3_06-容器的公用方法" />
+        <item itemvalue="Python.day3_05-字典的操作" />
+        <item itemvalue="Python.day3_04-元组的操作" />
+        <item itemvalue="Python.day3_03-列表的操作" />
+=======
+        <item itemvalue="Python.day6_04-序列操作" />
+        <item itemvalue="Python.day6_03-类型转换" />
+        <item itemvalue="Python.day6_02-内置函数 数学运算" />
+        <item itemvalue="Python.day5_04-递归函数" />
+        <item itemvalue="Python.day5_04-匿名函数(lambda表达式)" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -190,33 +276,65 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state width="1515" height="186" key="GridCell.Tab.0.bottom" timestamp="1603528888646">
+=======
+<<<<<<< HEAD
+    <state width="1104" height="144" key="GridCell.Tab.0.bottom" timestamp="1603380160339">
+      <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state width="1515" height="127" key="GridCell.Tab.0.bottom" timestamp="1603368360159">
+>>>>>>> 0aa3440c3204560da6a71e57f508106810a050ed
       <screen x="0" y="0" width="1536" height="920" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.bottom/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
     <state width="1515" height="186" key="GridCell.Tab.0.bottom/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888646" />
     <state width="1259" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
+<<<<<<< HEAD
+    <state width="1104" height="144" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603380160339" />
+    <state width="1104" height="144" key="GridCell.Tab.0.center" timestamp="1603380160339">
+      <screen x="0" y="0" width="1920" height="1040" />
+=======
     <state width="963" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
     <state width="1515" height="186" key="GridCell.Tab.0.center" timestamp="1603528888645">
       <screen x="0" y="0" width="1536" height="920" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.center/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
     <state width="1515" height="186" key="GridCell.Tab.0.center/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888645" />
     <state width="1259" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
+<<<<<<< HEAD
+    <state width="1104" height="144" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603380160339" />
+    <state width="1104" height="144" key="GridCell.Tab.0.left" timestamp="1603380160338">
+      <screen x="0" y="0" width="1920" height="1040" />
+=======
     <state width="963" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
     <state width="1515" height="186" key="GridCell.Tab.0.left" timestamp="1603528888645">
       <screen x="0" y="0" width="1536" height="920" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.left/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
     <state width="1515" height="186" key="GridCell.Tab.0.left/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888645" />
     <state width="1259" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
+<<<<<<< HEAD
+    <state width="1104" height="144" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603380160338" />
+    <state width="1104" height="144" key="GridCell.Tab.0.right" timestamp="1603380160339">
+      <screen x="0" y="0" width="1920" height="1040" />
+=======
     <state width="963" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
     <state width="1515" height="186" key="GridCell.Tab.0.right" timestamp="1603528888646">
       <screen x="0" y="0" width="1536" height="920" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.right/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
     <state width="1515" height="186" key="GridCell.Tab.0.right/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888646" />
     <state width="1259" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
+<<<<<<< HEAD
+    <state width="1104" height="144" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603380160339" />
+    <state x="142" y="23" key="SettingsEditor" timestamp="1602816959372">
+      <screen x="0" y="0" width="1280" height="760" />
+=======
     <state width="963" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
     <state width="1515" height="191" key="GridCell.Tab.1.bottom" timestamp="1603514175482">
       <screen x="0" y="0" width="1536" height="920" />
@@ -236,6 +354,7 @@
     <state width="1515" height="191" key="GridCell.Tab.1.right/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603514175482" />
     <state x="170" y="28" key="SettingsEditor" timestamp="1603107218682">
       <screen x="0" y="0" width="1536" height="920" />
+>>>>>>> 6ba149f7f6c7b3b9cad99a249279b4216fb44275
     </state>
     <state x="170" y="28" key="SettingsEditor/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603107218682" />
     <state x="142" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1602816959372" />
