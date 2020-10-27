@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce22204b-8409-4b77-aaea-3f0a1a54f0fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day6_03-类型转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day4_02-初识函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day4_03-函数的参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day4_04-关键字可变参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day5_02-全局变量和局部变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day5_03-函数参数引用传值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day5_04-匿名函数(lambda表达式).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day5_04-递归函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day6_02-内置函数 数学运算.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/求知学堂/day6_04-序列操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LearnPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day7_04-创建类和对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day8_02-类的析构方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day8_03-类的单继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day8_04-类的多继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day8_09-类属性和实例属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day8_10-类方法和静态方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day9_03-property和装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day9_03-类的私有方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day9_05-单例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day9_06-异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/求知学堂/day9_2-类的私有属性.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +47,8 @@
       <recent name="D:\workspace\LearnPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day6_04-序列操作">
-    <configuration name="day5_04-递归函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.day9_06-异常处理">
+    <configuration name="day2_2-类的私有属性" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day5_04-递归函数.py" />
+      <option name="SCRIPT_NAME" value="D:\workspace\LearnPython\求知学堂\day9_2-类的私有属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day5_04-匿名函数(lambda表达式)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day9_03-类的私有方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day5_04-匿名函数(lambda表达式).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_03-类的私有方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day6_02-内置函数 数学运算" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day9_03-property和装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day6_02-内置函数 数学运算.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_03-property和装饰器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,28 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day6_03-类型转换" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LearnPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6_03-类型转换.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day6_04-序列操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day9_05-单例" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +123,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day6_04-序列操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_05-单例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day9_06-异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/求知学堂" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/求知学堂/day9_06-异常处理.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day6_04-序列操作" />
-        <item itemvalue="Python.day6_03-类型转换" />
-        <item itemvalue="Python.day6_02-内置函数 数学运算" />
-        <item itemvalue="Python.day5_04-递归函数" />
-        <item itemvalue="Python.day5_04-匿名函数(lambda表达式)" />
+        <item itemvalue="Python.day9_06-异常处理" />
+        <item itemvalue="Python.day9_05-单例" />
+        <item itemvalue="Python.day9_03-property和装饰器" />
+        <item itemvalue="Python.day9_03-类的私有方法" />
+        <item itemvalue="Python.day2_2-类的私有属性" />
       </list>
     </recent_temporary>
   </component>
@@ -190,42 +190,58 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="127" key="GridCell.Tab.0.bottom" timestamp="1603368360159">
+    <state width="1515" height="186" key="GridCell.Tab.0.bottom" timestamp="1603528888646">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.bottom/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
-    <state width="1515" height="127" key="GridCell.Tab.0.bottom/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603368360159" />
+    <state width="1515" height="186" key="GridCell.Tab.0.bottom/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888646" />
     <state width="1259" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
-    <state width="1515" height="127" key="GridCell.Tab.0.center" timestamp="1603368360158">
+    <state width="1515" height="186" key="GridCell.Tab.0.center" timestamp="1603528888645">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.center/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
-    <state width="1515" height="127" key="GridCell.Tab.0.center/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603368360158" />
+    <state width="1515" height="186" key="GridCell.Tab.0.center/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888645" />
     <state width="1259" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
-    <state width="1515" height="127" key="GridCell.Tab.0.left" timestamp="1603368360157">
+    <state width="1515" height="186" key="GridCell.Tab.0.left" timestamp="1603528888645">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.left/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
-    <state width="1515" height="127" key="GridCell.Tab.0.left/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603368360157" />
+    <state width="1515" height="186" key="GridCell.Tab.0.left/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888645" />
     <state width="1259" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
-    <state width="1515" height="127" key="GridCell.Tab.0.right" timestamp="1603368360159">
+    <state width="1515" height="186" key="GridCell.Tab.0.right" timestamp="1603528888646">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1259" height="127" key="GridCell.Tab.0.right/-1920.0.1280.680/0.0.1280.760@0.0.1280.760" timestamp="1603366251578" />
-    <state width="1515" height="127" key="GridCell.Tab.0.right/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603368360159" />
+    <state width="1515" height="186" key="GridCell.Tab.0.right/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603528888646" />
     <state width="1259" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1602818098158" />
     <state width="963" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602775166152" />
+    <state width="1515" height="191" key="GridCell.Tab.1.bottom" timestamp="1603514175482">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1515" height="191" key="GridCell.Tab.1.bottom/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603514175482" />
+    <state width="1515" height="191" key="GridCell.Tab.1.center" timestamp="1603514175481">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1515" height="191" key="GridCell.Tab.1.center/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603514175481" />
+    <state width="1515" height="191" key="GridCell.Tab.1.left" timestamp="1603514175480">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1515" height="191" key="GridCell.Tab.1.left/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603514175480" />
+    <state width="1515" height="191" key="GridCell.Tab.1.right" timestamp="1603514175482">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1515" height="191" key="GridCell.Tab.1.right/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603514175482" />
     <state x="170" y="28" key="SettingsEditor" timestamp="1603107218682">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="170" y="28" key="SettingsEditor/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603107218682" />
     <state x="142" y="23" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1602816959372" />
-    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1602916606905">
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1603526857961">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1602916606905" />
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup/-1920.0.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1603526857961" />
   </component>
 </project>
